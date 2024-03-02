@@ -1,2 +1,2 @@
-# Appt_task_express_typescript
-Appt Task
+# appt_task
+Rest Api's using typescript and express
