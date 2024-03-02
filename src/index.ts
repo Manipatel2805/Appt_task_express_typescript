@@ -14,6 +14,7 @@ app.get("/", (req, res)=>{
 app.use("/users",user_route)
 app.listen(3003,()=>{
     console.log("Success")
+    
 })
 userDatabase.initialize()
 .then(() => {
